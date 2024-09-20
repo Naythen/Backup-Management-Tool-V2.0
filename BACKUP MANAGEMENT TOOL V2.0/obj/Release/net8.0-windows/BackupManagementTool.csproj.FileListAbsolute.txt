@@ -1,0 +1,114 @@
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\BackupManagementTool.exe
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\BackupManagementTool.deps.json
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\BackupManagementTool.runtimeconfig.json
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\BackupManagementTool.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\BackupManagementTool.pdb
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Azure.Core.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Azure.Identity.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Dapper.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\AdvancedDataGridView.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\System.ClientModel.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\System.Memory.Data.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\BackupManagementTool.csproj.AssemblyReference.cache
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\BackupManagementTool.FormLoginMenu.resources
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\BackupManagementTool.FormMainApp.resources
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\BackupManagementTool.Properties.Resources.resources
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\BackupManagementTool.csproj.GenerateResource.cache
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\BackupManagementTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\BackupManagementTool.AssemblyInfoInputs.cache
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\BackupManagementTool.AssemblyInfo.cs
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\BackupManagementTool.csproj.CoreCompileInputs.cache
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\BackupMa.BED79E0B.Up2Date
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\BackupManagementTool.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\refint\BackupManagementTool.dll
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\BackupManagementTool.pdb
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\BackupManagementTool.genruntimeconfig.cache
+C:\Users\snechifor\source\repos\BackupManagementTool - the best so far\Testare\obj\Release\net8.0-windows\ref\BackupManagementTool.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\BackupManagementTool.csproj.AssemblyReference.cache
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\BackupManagementTool.FormLoginMenu.resources
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\BackupManagementTool.FormMainApp.resources
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\BackupManagementTool.csproj.GenerateResource.cache
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\BackupManagementTool.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\refint\BackupManagementTool.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\BackupManagementTool.pdb
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\BackupManagementTool.exe
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\BackupManagementTool.deps.json
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\BackupManagementTool.runtimeconfig.json
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\BackupManagementTool.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\BackupManagementTool.pdb
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Azure.Core.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Azure.Identity.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Dapper.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\AdvancedDataGridView.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\System.ClientModel.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\System.Memory.Data.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\BackupManagementTool.Properties.Resources.resources
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\BackupManagementTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\BackupManagementTool.AssemblyInfoInputs.cache
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\BackupManagementTool.AssemblyInfo.cs
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\BackupManagementTool.csproj.CoreCompileInputs.cache
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\BackupMa.BED79E0B.Up2Date
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\BackupManagementTool.genruntimeconfig.cache
+C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\obj\Release\net8.0-windows\ref\BackupManagementTool.dll

@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\bin\\Release\\net8.0-windows\\publish\\win-x64\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Release\\net8.0-windows\\publish\\win-x64\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B99DB4-3EBE-463B-9C5F-5483D15248AF}|BackupManagementTool.csproj|C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\formloginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8B99DB4-3EBE-463B-9C5F-5483D15248AF}|BackupManagementTool.csproj|solutionrelative:formloginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B99DB4-3EBE-463B-9C5F-5483D15248AF}|BackupManagementTool.csproj|c:\\users\\snechifor\\documents\\github\\backup management tool 1.0\\backupmanagementtool - 19.09.2024 final\\backup management tool v2.0\\formloginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B99DB4-3EBE-463B-9C5F-5483D15248AF}|BackupManagementTool.csproj|solutionrelative:formloginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B99DB4-3EBE-463B-9C5F-5483D15248AF}|BackupManagementTool.csproj|c:\\users\\snechifor\\documents\\github\\backup management tool 1.0\\backupmanagementtool - 19.09.2024 final\\backup management tool v2.0\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B99DB4-3EBE-463B-9C5F-5483D15248AF}|BackupManagementTool.csproj|solutionrelative:methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B99DB4-3EBE-463B-9C5F-5483D15248AF}|BackupManagementTool.csproj|C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\formmainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8B99DB4-3EBE-463B-9C5F-5483D15248AF}|BackupManagementTool.csproj|solutionrelative:formmainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B99DB4-3EBE-463B-9C5F-5483D15248AF}|BackupManagementTool.csproj|c:\\users\\snechifor\\documents\\github\\backup management tool 1.0\\backupmanagementtool - 19.09.2024 final\\backup management tool v2.0\\formmainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B99DB4-3EBE-463B-9C5F-5483D15248AF}|BackupManagementTool.csproj|solutionrelative:formmainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B99DB4-3EBE-463B-9C5F-5483D15248AF}|BackupManagementTool.csproj|c:\\users\\snechifor\\documents\\github\\backup management tool 1.0\\backupmanagementtool - 19.09.2024 final\\backup management tool v2.0\\formmainapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B99DB4-3EBE-463B-9C5F-5483D15248AF}|BackupManagementTool.csproj|solutionrelative:formmainapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\Methods.cs",
+              "RelativeDocumentMoniker": "Methods.cs",
+              "ToolTip": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\Methods.cs",
+              "RelativeToolTip": "Methods.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAqwNQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:01:08.747Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLoginMenu.cs",
+              "DocumentMoniker": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\FormLoginMenu.cs",
+              "RelativeDocumentMoniker": "FormLoginMenu.cs",
+              "ToolTip": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\FormLoginMenu.cs",
+              "RelativeToolTip": "FormLoginMenu.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:02:51.999Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLoginMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\FormLoginMenu.cs",
+              "RelativeDocumentMoniker": "FormLoginMenu.cs",
+              "ToolTip": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\FormLoginMenu.cs [Design]",
+              "RelativeToolTip": "FormLoginMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:32:40.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\bin\\Release\\net8.0-windows\\publish\\win-x64\\config.json",
+              "RelativeDocumentMoniker": "bin\\Release\\net8.0-windows\\publish\\win-x64\\config.json",
+              "ToolTip": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\bin\\Release\\net8.0-windows\\publish\\win-x64\\config.json",
+              "RelativeToolTip": "bin\\Release\\net8.0-windows\\publish\\win-x64\\config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T07:20:00.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMainApp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\FormMainApp.Designer.cs",
+              "RelativeDocumentMoniker": "FormMainApp.Designer.cs",
+              "ToolTip": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\FormMainApp.Designer.cs",
+              "RelativeToolTip": "FormMainApp.Designer.cs",
+              "ViewState": "AQIAABcBAAAAAAAAAAAowCIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:20:03.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMainApp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\FormMainApp.cs",
+              "RelativeDocumentMoniker": "FormMainApp.cs",
+              "ToolTip": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\FormMainApp.cs [Design]",
+              "RelativeToolTip": "FormMainApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:45:07.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMainApp.cs",
+              "DocumentMoniker": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\FormMainApp.cs",
+              "RelativeDocumentMoniker": "FormMainApp.cs",
+              "ToolTip": "C:\\Users\\snechifor\\Documents\\GitHub\\Backup Management Tool 1.0\\BackupManagementTool - 19.09.2024 FINAL\\BACKUP MANAGEMENT TOOL V2.0\\FormMainApp.cs",
+              "RelativeToolTip": "FormMainApp.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:55:07.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

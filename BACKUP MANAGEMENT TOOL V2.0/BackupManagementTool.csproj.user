@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\snechifor\Documents\GitHub\Backup Management Tool 1.0\BackupManagementTool - 19.09.2024 FINAL\BACKUP MANAGEMENT TOOL V2.0\Properties\PublishProfiles\Backup Management Tool.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="FormLoginMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMainApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

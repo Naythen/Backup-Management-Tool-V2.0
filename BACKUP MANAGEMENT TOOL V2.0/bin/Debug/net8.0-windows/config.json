@@ -1,0 +1,12 @@
+{
+  "Database": {
+    "Server": "xx.xx.xx.xx", // your database server ip
+    "Username": "xxxx", // your database username info
+    "Password": "xxxx" // your database password info
+  },
+  "NetworkShare": { // QNAP server or any kind of storage you use
+    "Server": "\\\\xx.xx.xx.xx\\", // your storage server ip info
+    "Username": "xxxx", // your storage server username info
+    "Password": "xxxx!" // your storage server password info
+  }
+}
